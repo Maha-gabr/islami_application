@@ -1,0 +1,30 @@
+class AppAssets {
+  static final String onBoardingWelcome ='assets/images/onboarding_welcome.png';
+  static final String onBoardingWelcome2 ='assets/images/onboarding_welcome2.png';
+  static final String onBoardingQuran ='assets/images/onboarding_quran.png';
+  static final String onBoardingBearish ='assets/images/onboarding_bearish.png';
+  static final String onBoardingRadio ='assets/images/onboarding_radio.png';
+  static final String onBoardingLogo ='assets/images/onBoarding_logo.png';
+  static final String quranBg= "assets/images/quran_bg.png";
+  static final String quranIcon= "assets/images/quran_icon.png";
+  static final String hadeathIcon= "assets/images/hadeath_icon.png";
+  static final String sebhaIcon= "assets/images/sabha_icon.png";
+  static final String timeIcon= "assets/images/time_icon.png";
+  static final String radioIcon= "assets/images/radio_icon.png";
+  static final String hadeathBg= "assets/images/hadeath_bg.png";
+  static final String sebhaBg= "assets/images/sebha_bg.png";
+  static final String radioBg= "assets/images/radio_bg.png";
+  static final String timeBg= "assets/images/time_bg.png";
+  static final String logo= "assets/images/logo.png";
+  static final String searchIcon = 'assets/images/search_icon.png';
+  static final String  mostRecent ='assets/images/img_most_recent.png';
+  static final String vector ='assets/images/vector.png';
+  static final String suraDetailsBg ='assets/images/suraDetailBg.png';
+  static final String hadeathConten_bg='assets/images/hadeathContent_bg.png';
+  static final String sebhaImage ='assets/images/sebha_image.png';
+  static final String RadioBgSoundOn ='assets/images/radioBgSoundOn.png';
+  static final String RadioBgSoundoff='assets/images/bgSoundoff.png';
+  static final String timeIMAGE ='assets/images/time_image.png';
+static final String morningAzkar ='assets/images/morning_azkar.png';
+static final String eveningAzkar ='assets/images/evening_Azkar.png';
+}
